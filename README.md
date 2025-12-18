@@ -2,7 +2,7 @@
 
 Initially, we've implemented everything with Jupyter Notebook files hence, we suggest using those files to reproduce results we have obtained in our report. However, we still generated plain python versions of those notebooks using a package called ``` nbconvert ```. You may use either of our versions to test our code.
 
-There are some dependencies need to be installed before running the code. Name and versions of the dependencies reside in ``` requirements.txt ``` file. You can install desired dependencies using the command below (make sure you are under ```/Assignment\ 1 ``` folder ) :
+There are some dependencies need to be installed before running the code. Name and versions of the dependencies reside in ``` requirements.txt ``` file. You can install desired dependencies using the command below (make sure you are under ```/Assignment1 ``` folder ) :
 
 ```
 pip install -r requirements.txt
